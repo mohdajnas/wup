@@ -4,14 +4,14 @@
   "private": true,
   "description": "Self-hostable CRM template for WhatsApp built on Next.js and Supabase — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations.",
   "license": "MIT",
-  "author": "Arnas Donauskas",
-  "homepage": "https://github.com/ArnasDon/Wup",
+  "author": "Ajnas (https://www.ajnas.online)",
+  "homepage": "https://github.com/mohdajnas/wup",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArnasDon/Wup.git"
+    "url": "git+https://github.com/mohdajnas/wup.git"
   },
   "bugs": {
-    "url": "https://github.com/ArnasDon/Wup/issues"
+    "url": "https://github.com/mohdajnas/wup/issues"
   },
   "keywords": [
     "crm",
